@@ -1,0 +1,1 @@
+/home/palmcivetmenace/Code/Shell/Custom/i3/duplicateShell.sh
